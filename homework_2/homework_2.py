@@ -22,3 +22,5 @@ def lucky(n):
         count += in_count ** 2
     
     return count
+
+print(lucky(3))
