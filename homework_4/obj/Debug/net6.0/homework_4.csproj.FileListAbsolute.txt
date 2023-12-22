@@ -1,0 +1,14 @@
+D:\otus\homework_4\bin\Debug\net6.0\homework_4.exe
+D:\otus\homework_4\bin\Debug\net6.0\homework_4.deps.json
+D:\otus\homework_4\bin\Debug\net6.0\homework_4.runtimeconfig.json
+D:\otus\homework_4\bin\Debug\net6.0\homework_4.dll
+D:\otus\homework_4\bin\Debug\net6.0\homework_4.pdb
+D:\otus\homework_4\obj\Debug\net6.0\homework_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\otus\homework_4\obj\Debug\net6.0\homework_4.AssemblyInfoInputs.cache
+D:\otus\homework_4\obj\Debug\net6.0\homework_4.AssemblyInfo.cs
+D:\otus\homework_4\obj\Debug\net6.0\homework_4.csproj.CoreCompileInputs.cache
+D:\otus\homework_4\obj\Debug\net6.0\homework_4.dll
+D:\otus\homework_4\obj\Debug\net6.0\refint\homework_4.dll
+D:\otus\homework_4\obj\Debug\net6.0\homework_4.pdb
+D:\otus\homework_4\obj\Debug\net6.0\homework_4.genruntimeconfig.cache
+D:\otus\homework_4\obj\Debug\net6.0\ref\homework_4.dll
